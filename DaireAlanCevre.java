@@ -8,7 +8,7 @@ public class DaireAlanCevre {
         double pi, alan, radius, alfa;
 
         pi = 3.14;
-        
+
         Scanner inputt = new Scanner(System.in);
         System.out.print("Dairenin merkez açısının ölçüsünü giriniz: ");
         alfa = inputt.nextDouble();
